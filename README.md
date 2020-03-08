@@ -68,5 +68,5 @@ Sebagai contoh, saya membuat id (3), Nama (ana), nomor (0852656146547).
 19. Sekian Terimakasih.
 
 ## Daftar Pustaka
-BKPM Workshop WEB Framework
-https://www.codepolitan.com/rest-api-server-sederhana-dengan-codeigniter-58901f324a29f
+- BKPM Workshop WEB Framework
+- https://www.codepolitan.com/rest-api-server-sederhana-dengan-codeigniter-58901f324a29f
