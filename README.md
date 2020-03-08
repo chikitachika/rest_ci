@@ -39,10 +39,10 @@ composer require chriskacerguis/codeigniter-restserver
 7. Masukkan data ke dalam tabel, contohnya (1, 'Orion', '08576666762').
 
 8. Buka database.php pada rest_ci/application/config ubah menjadi 
-    'hostname' => 'localhost',
-    'username' => 'root',
-    'password' => '', *bisa dikosongkan
-    'database' => 'kontak', *nama DB
+    - 'hostname' => 'localhost',
+    - 'username' => 'root',
+    - 'password' => '', *bisa dikosongkan
+    - 'database' => 'kontak', *nama DB
 
 9. Selanjutkan ke metode GET. Metode GET menyediakan akses baca pada sumber daya yang disediakan oleh REST API. Sebagai contohnya digunakan untuk membaca data dari tabel telepon pada database kontak. Buat file php baru di di rest_ci/application/controller dengan nama kontak.php. Contoh codenya bisa dilihat di file kontak.php.
 
